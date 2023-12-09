@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Moh","l":"Fishing"},{"p":"KI304.Moh","l":"Lab3"},{"p":"KI304.Moh","l":"Reservoir"},{"p":"KI304.Moh","l":"Sea"},{"p":"KI304.Moh","l":"Season"}];updateSearchResults();

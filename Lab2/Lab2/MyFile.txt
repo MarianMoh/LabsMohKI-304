@@ -1,0 +1,38 @@
+
+Name: lake
+Amount of water: 50000
+Water temperature: 15
+
+- Error! New name "123" is incorrect :(
+
+New name: White lake
+
+New season is: SUMMER
+
+Name: White lake
+Amount of water: 50000
+Water temperature: 15
+Season is: SUMMER
+
+Season was changed
+
+Name: White lake
+Amount of water: 50000
+Water temperature: 10
+Season is: AUTUMN
+
+- Error! You already have the season: AUTUMN
+
+Season was changed
+
+Name: White lake
+Amount of water: 50000
+Water temperature: 0
+Season is: WINTER
+Water is frozen
+
+Season was deleted
+
+- Error! You don't have a season to change it
+
+-_- The reservoir has dried up...

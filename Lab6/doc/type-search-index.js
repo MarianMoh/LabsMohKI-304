@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI304.Moh.Lab6","l":"DangerousTruck"},{"p":"KI304.Moh.Lab6","l":"FoodTruck"},{"p":"KI304.Moh.Lab6","l":"Main"},{"p":"KI304.Moh.Lab6","l":"Truck"},{"p":"KI304.Moh.Lab6","l":"Vehicle"}];updateSearchResults();

@@ -1,0 +1,33 @@
+
+New season is: AUTUMN
+
+Name: Black Sea
+Amount of water: 1000000
+Water temperature: 15
+Number of sharks: 2500
+Season is: AUTUMN
+Shark fishing is allowed
+
+Season was changed
+
+Name: Black Sea
+Amount of water: 1000000
+Water temperature: 5
+Number of sharks: 2500
+Season is: WINTER
+Shark fishing is allowed
+
+After fishing the number of sharks is: 1875
+
+- Shark fishing is not allowed! Too few sharks!!!
+
+After feeding the number of sharks is: 2062
+
+Name: Black Sea
+Amount of water: 1000000
+Water temperature: 5
+Number of sharks: 2062
+Season is: WINTER
+Shark fishing is allowed
+
+-_- The reservoir has dried up...
